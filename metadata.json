@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Grid 3D",
+  "description": "A 3D hand-eye coordination reflex board simulator with escalating speed, multi-node light patterns, procedural audio, and a local leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
